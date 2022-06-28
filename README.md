@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @materialAres
-- 👀 I’m interested in {to be decided}
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on {work in progress}
+- 👀 I’m interested in programming and languages
+- 🌱 I’m currently learning Python and Django
 - 📫 How to reach me: material999@protonmail.com
 
 <!---
