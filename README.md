@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @materialAres
 - 👀 I’m interested in programming and languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently working with Spring and Angular
 - 📫 How to reach me: material999@protonmail.com
 
 <!---
