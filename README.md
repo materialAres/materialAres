@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @materialAres
-I'm a nerd, and that's more than anything else I could say. I love the keyboard noise, the screen light (better to set everything with dark mode though!), the mouse click, and of corse to write code! Bad code, yeah. Actually, I'm always trying to improve, learn and stuff like that, so maybe it's not that bad idk.
+I'm a nerd, and that's more than anything else I could say. I love the sound of the keyboard, the glow of the screen (though it's better to set everything to dark mode!), the mouse clicks, and of course, writing code! Bad code? Yeah. Actually, I'm always trying to improve, learn, and do stuff like that—so maybe it's not that bad, idk.
 
-Anyway, my favorite language is lov... err, I mean JAVA. Yeah, that prolix language full of stuff and things and stuff and things. But I found out I also like frontend! I worked for some time with Angular, and now with Remix. Despite being less popular than Next, Remix is not that bad, trust me (or maybe you shouldn't).
+Anyway, my favorite language is lov... err, I mean **Java**. Yeah, that prolix language full of stuff and things—and more stuff and things. But I’ve found that I also like *frontend*! What a lovely surprise... so, I found myself working with with Angular for a while, and now I'm experimenting with Remix. Despite being less popular than Next, Remix isn’t that bad. Trust me (or maybe you shouldn’t).
 
-Have a safe trip on the web!
+Well, have a safe trip on the web! ![Rocket](https://github.com/user-attachments/assets/687dc9df-1551-41be-a53a-7a4b41ec3684)
 
 <!---
 materialAres/materialAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
