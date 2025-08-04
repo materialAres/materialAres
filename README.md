@@ -3,7 +3,8 @@ I'm a nerd, and that's more than anything else I could say. I love the sound of 
 
 Anyway, my favorite language is lov... err, I mean **Java**. Yeah, that prolix language full of stuff and things—and more stuff and things. But I’ve found that I also like *frontend*! What a lovely surprise... so, I found myself working with with Angular for a while, and now I'm experimenting with Remix. Despite being less popular than Next, Remix isn’t that bad. Trust me (or maybe you shouldn’t).
 
-Well, have a safe trip on the web! ![Rocket](https://github.com/user-attachments/assets/687dc9df-1551-41be-a53a-7a4b41ec3684)
+Well, have a safe trip on the web! 
+![Rocket](https://github.com/user-attachments/assets/687dc9df-1551-41be-a53a-7a4b41ec3684)
 
 <!---
 materialAres/materialAres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
