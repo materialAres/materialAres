@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=materialAres&fontSize=42)
+![Nome Trasparente](https://capsule-render.vercel.app/api?type=transparent&color=000000&text=materialAresE&fontSize=70)
 
 I'm a nerd, and that's basically all about me. I love the sound of the keyboard, the mouse clicks, the IDE colors and of course, writing code! Bad code? Yeah. Actually, I'm always trying to improve, learn and so on, so maybe it's not that bad, idk.
 
