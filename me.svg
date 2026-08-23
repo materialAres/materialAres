@@ -7,29 +7,4 @@
     <tspan x="15" dy="24">| | | | | | (_| | ||  __/ |  | | (_| | |/ ___ \| | |  __/\__ \</tspan>
     <tspan x="15" dy="24">|_| |_| |_|\__,_|\__\___|_|  |_|\__,_|_/_/   \_\_|  \___||___/</tspan>
   </text>
-</svg><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="auto" viewBox="0 0 850 160">
-  <style>
-    .ascii-text {
-      font-family: 'Courier New', Consolas, Monaco, monospace;
-      font-size: 15px;
-      font-weight: bold;
-      fill: #24292e; /* Colore per Tema Chiaro */
-      white-space: pre;
-    }
-    
-    /* Cambia colore in automatico con il Tema Scuro di GitHub */
-    @media (prefers-color-scheme: dark) {
-      .ascii-text {
-        fill: #58a6ff; /* Azzurro per Tema Scuro */
-      }
-    }
-  </style>
-
-  <text x="10" y="10" class="ascii-text">
-    <tspan x="10" dy="1.2em">           _            _alAres            _        _                   </tspan>
-    <tspan x="10" dy="1.2em"> _ __ ___ | |__   __ _ | |_ ___ _ __ ___  (_) __ _ | |  /___\_ __ ___  </tspan>
-    <tspan x="10" dy="1.2em">| '_ ` _ \| '_ \ / _` || __/ _ \ '__/ _ \ | |/ _` || | //  // '__/ _ \ </tspan>
-    <tspan x="10" dy="1.2em">| | | | | | |_) | (_| || ||  __/ | |  __/ | | (_| || |/ \_//| | |  __/ </tspan>
-    <tspan x="10" dy="1.2em">|_| |_| |_|_.__/ \__,_| \__\___|_|  \___| |_|\__,_||_|\___/ |_|  \___| </tspan>
-  </text>
 </svg>
