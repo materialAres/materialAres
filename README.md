@@ -32,7 +32,7 @@ I'm a nerd, and that's basically all about me. I love the sound of the keyboard,
 
 <div align="center">
   <img 
-    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=materialAres&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
+    src="https://github-readme-stats.hackclub.dev/api/wakatime?username=67068&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark"
     alt="Hackatime Stats"
   >
 </div>
