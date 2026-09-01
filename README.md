@@ -1,4 +1,6 @@
-<img src="me.svg" alt="materialAres ASCII Banner" width="100%">
+<div align="center">
+  <img src="me.svg" alt="materialAres ASCII Banner" width="100%">
+</div>
 
 ---
 
